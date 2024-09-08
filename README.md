@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navin gurung</h1>
 <h3 align="center">A dedicated full stack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **my own payment gateway system...**
+- 🔭 I’m currently working on **Backend Technologies**
 
-- 🌱 I’m currently learning **MERN Stack & AWS technologies**
+- 🌱 I’m currently learning **MERN Stack & Web3**
 
 - 👯 I’m looking to collaborate on **nodejs and backend related projects**
 
